@@ -1,4 +1,4 @@
-# sampledemorepo
+# SampleDemoRepo
 
 #Demo
 
